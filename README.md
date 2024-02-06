@@ -1,4 +1,4 @@
-# Hi! My name is Kaiser Ghassan 😄
+# Hi! My name is Kaiser Ghassan :man_technologist:
 
 🌍  I am a Front-End Developer based in Baghdad, Iraq.
 <br/>
